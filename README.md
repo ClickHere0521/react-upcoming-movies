@@ -1,5 +1,5 @@
 
-# react site for upcoming movies
+# 🎥 react site for upcoming movies
 
 ## How to run
 
